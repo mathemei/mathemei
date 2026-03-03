@@ -34,5 +34,3 @@ I’m a PhD student passionate about knowledge graphs, toxicology, and women's h
 ![spaCy](https://img.shields.io/badge/spaCy-000000?style=flat--square&logo=spacy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat--square&logo=huggingface&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat--square&logo=python&logoColor=white)
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=mathemei)](https://github.com/mathemei/github-readme-stats)
