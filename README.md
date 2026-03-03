@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Meije ! 🌸
+## 🌸 Hi there, I'm Meije ! 🌸
 
 🎓 **PhD Student**   💻 **Java Lover** | 🧠 **Knowledge Graphs Sorceress** | 🐧 **Bash Wizard**
 
@@ -22,7 +22,7 @@ I’m a PhD student passionate about **knowledge graphs**, **toxicology**, and *
 ### 📊 Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🤖 Artificial Intelligence
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logoColor=white)
